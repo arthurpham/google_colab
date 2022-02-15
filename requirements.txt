@@ -1,0 +1,9 @@
+tensorflow
+tf-quant-finance
+QuantLib-Python
+jupyter
+notebook
+matplotlib
+numpy
+pandas
+seaborn
